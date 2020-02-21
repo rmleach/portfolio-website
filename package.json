@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "node-sass": "^4.13.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmleach/portfolio-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rmleach/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/rmleach/portfolio-website#readme",
+  "devDependencies": {}
 }
