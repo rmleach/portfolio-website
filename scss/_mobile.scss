@@ -38,9 +38,20 @@
     transform: translate3d(100%, 0, 0);
 
     .portrait {
+      background: url('../img/headshot_thumb.jpg') 100% no-repeat;
       width: 150px;
       height: 150px;
     }
+  }
+
+  .about-info {
+    grid-template-areas:
+      'bioimage'
+      'bio'
+      'btn-1'
+      'btn-2'
+      'btn-3';
+      grid-template-columns: 1fr;
   }
 }
 
